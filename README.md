@@ -19,5 +19,6 @@ Install OpenCV using pip if you don't already have it:
 ```bash
 pip install opencv-python
 
-1.**Run the script:**
+
+## **Run the script:**
 `python image-cropping.py`
