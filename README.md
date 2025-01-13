@@ -20,4 +20,4 @@ Install OpenCV using pip if you don't already have it:
 pip install opencv-python
 
 1.**Run the script:**
-`python document_scanner.py`
+`python image-cropping.py`
