@@ -18,3 +18,6 @@ This Python script allows users to interactively crop a region of an image using
 Install OpenCV using pip if you don't already have it:  
 ```bash
 pip install opencv-python
+
+1.**Run the script:**
+`python document_scanner.py`
