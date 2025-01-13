@@ -2,6 +2,7 @@
 
 This Python script allows users to interactively crop a region of an image using their mouse and save the cropped portion automatically. It utilizes the OpenCV library for image handling and drawing.  
 
+![Alt text](imageCropping.png)
 ## Features  
 
 - Load an image from a specified path.  
